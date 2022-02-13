@@ -33,7 +33,7 @@ Currrently I'm a First Year college student at [West Visayas State University](h
 
 - ⚡ Fun fact: ...
 
-	I love Travelling and Food.
+	I love Travelling and Food 
 
 
 
