@@ -1,8 +1,8 @@
 ![David Bryan Barcelona](https://user-images.githubusercontent.com/99592635/153757101-df08a32d-dc8c-4659-b184-514c78a6ca39.gif)
 
-### Hi! Get to know me by reading this! 👋
+### Get to know me by reading this! 👋
 
-Currrently I'm a First Year college student at [West Visayas State University](https://wvsu.edu.ph/) taking up BS in Computer Science.
+Currrently, I'm a First Year college student at [West Visayas State University](https://wvsu.edu.ph/) taking up BS in Computer Science.
 
 - 🌱 I’m currently learning ...
 
