@@ -7,7 +7,7 @@ Currrently I'm a First Year college student at [West Visayas State University](h
 - 🌱 I’m currently learning ...
 
 
-	🔐 Programming Languages: C++, Java, and Phyton
+	🔐 Programming Languages: C++, Java, and Python
 
 	🔐 Photo Editing using Adobe Photoshop
 
